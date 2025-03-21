@@ -2,37 +2,48 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Why is it important to analyze use cases in the 'Understanding Objectives and Audience' stage?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To study VR industry trends",
+        "b": "To identify how VR addresses specific problems",
+        "c": "To decide on system performance metrics"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is a primary consideration when focusing on immersion and interaction in VR?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Ensuring smooth system performance",
+        "b": "Defining the environment, characters, and rules",
+        "c": "Enhancing user engagement through interactive design"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is a critical factor in ensuring the technical feasibility of a VR concept?",
+      "answers": {
+        "a": "Studying industry trends",
+        "b": "Ensuring compatibility with VR hardware capabilities",
+        "c": "Creating concept sketches"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
