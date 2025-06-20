@@ -8,11 +8,6 @@
         "b": "To identify how VR addresses specific problems",
         "c": "To decide on system performance metrics"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
-      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -23,11 +18,6 @@
         "b": "Defining the environment, characters, and rules",
         "c": "Enhancing user engagement through interactive design"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
-      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -37,11 +27,6 @@
         "a": "Studying industry trends",
         "b": "Ensuring compatibility with VR hardware capabilities",
         "c": "Creating concept sketches"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"

@@ -8,11 +8,6 @@
         "b": "Defining goals",
         "c": "Exploring VR hardware"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
-      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -23,11 +18,6 @@
         "b": "Investigating VR hardware capabilities",
         "c": "Conducting brainstorming sessions"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
-      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -37,11 +27,6 @@
         "a": "Matching concepts to hardware limitations",
         "b": "Conducting multidisciplinary idea generation",
         "c": "Measuring system performance"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
