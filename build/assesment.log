@@ -1,11 +1,11 @@
-=/pretest.json
+=\pretest.json 
 {
   _: [],
   f: [
-    '/home/mediatechlab/Documents/Virtual-Labs/exp-ideation-concept-generation-iitd/experiment/pretest.json'
+    'd:\\Git\\exp-ideation-concept-generation-iitd\\experiment\\pretest.json'
   ],
   files: [
-    '/home/mediatechlab/Documents/Virtual-Labs/exp-ideation-concept-generation-iitd/experiment/pretest.json'
+    'd:\\Git\\exp-ideation-concept-generation-iitd\\experiment\\pretest.json'
   ],
   c: 'assessment',
   contentTypes: 'assessment',
@@ -13,14 +13,14 @@
   '$0': 'validate'
 }
 Validated true
-=/posttest.json
+=\posttest.json 
 {
   _: [],
   f: [
-    '/home/mediatechlab/Documents/Virtual-Labs/exp-ideation-concept-generation-iitd/experiment/posttest.json'
+    'd:\\Git\\exp-ideation-concept-generation-iitd\\experiment\\posttest.json'
   ],
   files: [
-    '/home/mediatechlab/Documents/Virtual-Labs/exp-ideation-concept-generation-iitd/experiment/posttest.json'
+    'd:\\Git\\exp-ideation-concept-generation-iitd\\experiment\\posttest.json'
   ],
   c: 'assessment',
   contentTypes: 'assessment',
